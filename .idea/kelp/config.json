@@ -1,0 +1,15 @@
+{
+  "colorPreview": {
+    "codeCompletionEnabled": true,
+    "gutterEnabled": true
+  },
+  "iconsRendering": {
+    "codeCompletionEnabled": true,
+    "gutterEnabled": true,
+    "containerClassName": "com.canerture.coloriconpreview.ui.theme.SampleProjectIcons",
+    "propertyToResourceMapper": {
+      "addPrefix": "ic_",
+      "convertToSnakeCase": true
+    }
+  }
+}
