@@ -2,7 +2,7 @@
 Color and Icon Previews in Autocompletion
 
 ## Youtube Video
-
+[Link](https://www.youtube.com/watch?v=XruP9IIv17M)
 
 ## Setup
 Install Kelp Plugin -> https://github.com/ozontech/kelp
